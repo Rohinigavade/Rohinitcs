@@ -9,6 +9,8 @@ public class Global_Variable {
 		System.out.println(i);
 		Global_Variable e=new Global_Variable();
 		System.out.println(e.j);
+		System.out.println();
+		
 
 	}
 
